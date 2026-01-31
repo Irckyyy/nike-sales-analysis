@@ -20,7 +20,7 @@ This project focuses on:
 - `report/` – Executive summary and written findings
 - `visuals/` – Charts and exported visuals
 
-📄 Dataset details and attribution are documented in `data/README.md`.
+Dataset details and attribution are documented in `data/README.md`.
 
 ## Notes
 This project is developed as a portfolio case study for data analytics
