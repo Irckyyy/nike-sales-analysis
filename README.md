@@ -20,6 +20,11 @@ This project focuses on:
 - `report/` – Executive summary and written findings
 - `visuals/` – Charts and exported visuals
 
+<<<<<<< HEAD
+=======
+Dataset details and attribution are documented in `data/README.md`.
+
+>>>>>>> a3c33df (feat: add structured notebook for data case study workflow and update README)
 ## Notes
 This project is developed as a portfolio case study for data analytics
 roles. Findings demonstrate analytical reasoning and are not intended
